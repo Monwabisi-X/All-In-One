@@ -98,7 +98,7 @@ def return_list_stats(numbers):
             "odd_numbers": find_odd_numbers(numbers),
             "number_of_even_numbers": len(find_even_numbers(numbers)),
             "number_of_odd_numbers": len(find_odd_numbers(numbers)),
-            }
+        }
 
 # Question 7
 def draw_triangle_reversed(height: int) -> None:
